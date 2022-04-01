@@ -1,4 +1,4 @@
-# Predicting Food Sales
+# Food Sales Prediction
 This project examines food sales data and develops a model for predicting future sales. A brief presentation discussing the analyses and conclusions of a few of points examined is also provided.
 
 ## The notebook
